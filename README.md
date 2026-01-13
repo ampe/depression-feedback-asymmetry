@@ -131,7 +131,9 @@ Key papers informing this work:
 
 ## 👤 Author
 
-**Ruslan** - Neuroscience Researcher
+**Ruslan Zhulduzbayev** - Neuroscience Researcher  
+- 🎓 Kazakh-British Technical University
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ruslan-zhulduzbayev) | [Google Scholar](https://scholar.google.com/citations?user=o-HNVbsAAAAJ)
 
 
 ## 📄 License
