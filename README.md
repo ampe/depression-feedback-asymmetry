@@ -133,11 +133,12 @@ Key papers informing this work:
 
 **Ruslan** - Neuroscience Researcher
 
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
-- Data collection: [Your University/Lab]
+- Data collection: Al-Farabi University
 - EEG preprocessing: EEGLAB/ERPLAB
